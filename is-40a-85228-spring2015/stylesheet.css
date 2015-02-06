@@ -9,7 +9,7 @@
     margin: 0 auto;
 } 
 
-img {
+.im-fl {
     float: right;
     width: 50%;
     height: auto;
