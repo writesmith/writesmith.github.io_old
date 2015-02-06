@@ -9,6 +9,10 @@
     margin: 0 auto;
 } 
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 p {
     font-family: sans-serif;
 }
