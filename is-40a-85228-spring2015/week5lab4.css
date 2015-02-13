@@ -9,6 +9,11 @@
     margin: 0 auto;
 } 
 
+.tb {
+    border: 1px solid black;
+    font-family: sans-serif;
+}
+
 #fullscreen {
     width: 100%;
     height: auto;
