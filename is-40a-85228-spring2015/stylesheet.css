@@ -38,3 +38,34 @@ h3 {
     float: right;
     margin: 0 0 1em 1em;
 }
+.navt  {
+    border-collapse:collapse;
+    border-spacing:0;
+    margin:0px auto;
+    
+}
+.navt td{
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    
+}
+.navt th{
+    font-family:Arial, sans-serif;
+    font-size:14px;
+    font-weight:normal;
+    padding:10px 5px;
+    border-style:solid;
+    border-width:1px;
+    overflow:hidden;
+    word-break:normal;
+    
+}
+.navt .navt-cell{
+    text-align:center
+    
+}
