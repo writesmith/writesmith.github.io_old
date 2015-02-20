@@ -17,7 +17,7 @@
 }
 
 #header {
-    z-index:100;
+    z-index:900;
     position:absolute;
     color:white;
     font-size:24px;
