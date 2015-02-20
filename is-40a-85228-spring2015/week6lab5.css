@@ -12,12 +12,13 @@
 
 #image {
     position:absolute;
+    z-index:1;
     left:0;
     top:0;
 }
 
 #header {
-    z-index:900;
+    z-index:3;
     position:absolute;
     color:white;
     font-size:24px;
