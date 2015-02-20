@@ -4,6 +4,28 @@
             box-sizing: border-box;
 }
 
+#headerimg {
+    max-width: 100%;
+    height: auto;
+    position: relative;
+}
+
+#image {
+    position:absolute;
+    left:0;
+    top:0;
+}
+
+#header {
+    z-index:100;
+    position:absolute;
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
+}
+
 .main {
     max-width: 640px;
     margin: 0 auto;
