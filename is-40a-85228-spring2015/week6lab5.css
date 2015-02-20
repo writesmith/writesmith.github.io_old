@@ -46,6 +46,12 @@
     
 }
 
+.im-mn {
+    width:100%;
+    height:auto;
+    margin: 0 0 24pt 24pt;
+}
+
 .im-fl {
     float: right;
     width: 50%;
